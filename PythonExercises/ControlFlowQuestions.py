@@ -56,7 +56,17 @@ list_of_lists = [[1, 5, 7, 3, 44, 4, 1],
                  ["Hi", "Hello", "Ciao", "By", "Goodbye", "Ciao"],
                  ["one", "Two", "Three", "Four"]]
 answer = []
-for M in list_of_lists:
-    if M == set(M):
-        answer.append(M)
+for M in range(len(list_of_lists)):
+    if len(list_of_lists[M]) == len(set(list_of_lists[M])):
+        answer.append(list_of_lists[M])
+print(answer)
+
+# Q4a: Using a while loop, ask the user to input a number greater than 100, if they enter anything else,
+# get them to enter again (and repeat until the conditions are satisfied). Finally print the number that
+# they entered
+print('Q4a')
+
+answer = float(input('Input a number greater than 100'))
+while answer < 100:
+    answer = float(input('That iss less than 100. Try again'))
 print(answer)
