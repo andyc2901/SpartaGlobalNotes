@@ -72,6 +72,7 @@ while answer < 100:
 print(answer)
 
 # need to add something to check if it is a float, use isdigit or an else statement
+
 game = True
 while game:
     answer = input('Input a number greater than 100 ')
