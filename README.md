@@ -1,6 +1,6 @@
 # Data Engingeering with Sparta Global
 
-**Table of Contents**
+## **Table of Contents**
 
 -[Introduction](#item-one)  
 -[Folder Descriptions](#item-two)
