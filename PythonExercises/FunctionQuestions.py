@@ -46,7 +46,6 @@ if number2 > number1:
 
 alphabet = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m",
             "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", " "]
-print('Please input a letter')
 
 
 def alpha(letter):
@@ -55,7 +54,7 @@ def alpha(letter):
             return M+1
 
 
-answer = alpha(input())
+answer = alpha(input('Please input a letter'))
 print(answer)
 
 # Q2b: create a function which takes a persons name as an input string and returns an
