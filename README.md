@@ -9,5 +9,5 @@ Hi there, my name is Andrew Carver and I'm a junior data engineer at Sparta Glob
 - **PythonExercises** - Contains the code for the training exercises given to us to test our function and control loop ability
 - **PythonOOPLearning** - Contains all of the exercises from the Python OOP teachable course
 
-![Sparta Global Logo](Sparta_Global.png)
+![Sparta Global Logo](Images\Sparta_Global.png)
 
