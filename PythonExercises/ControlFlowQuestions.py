@@ -66,7 +66,25 @@ print(answer)
 # they entered
 print('Q4a')
 
-answer = float(input('Input a number greater than 100'))
+answer = float(input('Input a number greater than 100 '))
 while answer < 100:
-    answer = float(input('That iss less than 100. Try again'))
+    answer = float(input('That is less than 100. Try again'))
 print(answer)
+
+# need to add something to check if it is a float, use isdigit or an else statement
+
+# Q4b: continue this code to print if it is prime
+
+
+def is_prime(p):
+    count = 0
+    for q in range(int(p**0.5)):
+        if p % (q+1) == 0:
+            count += 1
+    if count == 1:
+        return True
+    else:
+        return False
+
+
+print('Your number is prime: ', is_prime(answer))
