@@ -80,7 +80,7 @@ while game:
             answer = float(input('That is less than 100. Try again'))
         print(answer)
         game = False
-    except ValueError:
+    except ValueError:  # ValueError rejects the string if it isn't able to convert it to a float
         print('Try again')
 
 # Q4b: continue this code to print if it is prime
