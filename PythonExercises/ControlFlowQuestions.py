@@ -72,14 +72,24 @@ while answer < 100:
 print(answer)
 
 # need to add something to check if it is a float, use isdigit or an else statement
+game = True
+while game:
+    answer = input('Input a number greater than 100 ')
+    try:
+        while float(answer) < 100:
+            answer = float(input('That is less than 100. Try again'))
+        print(answer)
+        game = False
+    except ValueError:
+        print('Try again')
 
 # Q4b: continue this code to print if it is prime
 
 
 def is_prime(p):
     count = 0
-    for q in range(int(p**0.5)):
-        if p % (q+1) == 0:
+    for q in range(int(float(p)**0.5)):
+        if float(p) % (q+1) == 0:
             count += 1
     if count == 1:
         return True
