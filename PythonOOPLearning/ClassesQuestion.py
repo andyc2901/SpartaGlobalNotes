@@ -12,6 +12,7 @@ class Country:
         self.language = language
         self.population = population
 
+
 print("\nQ1b\n")
 # Q1b: Create a subclass of a city which inherits from the country class
 
@@ -23,8 +24,8 @@ class City(Country):
         self.city = city
         super().__init__(country, continent, climate, language, population)
 
-# -------------------------------------------------------------------------------------- #
 
+# -------------------------------------------------------------------------------------- #
 print("\nQ2a\n")
 # Q2a: Using the predefined class and is_prime method below, loop through list_of_numbers and create
 # a list of primes from that list
@@ -54,10 +55,9 @@ class Number:
 
 
 ans = []
-for n in range(len(list_of_numbers)):
-    y = Number(list_of_numbers[n])
-    if y.is_prime() == 1:
-        ans.append(list_of_numbers[n])
+for y in list_of_numbers:
+    if Number(y).is_prime() == 1:
+        ans.append(y)
 print(ans)
 
 print("\nQ2b\n")
@@ -66,10 +66,9 @@ print("\nQ2b\n")
 
 # A2b:
 ans = []
-for n in range(len(list_of_numbers)):
-    y = Number(list_of_numbers[n])
-    if y.divisible_by_n(3) == 1 and y.divisible_by_n(4) == 1:
-        ans.append(list_of_numbers[n])
+for y in list_of_numbers:
+    if Number(y).divisible_by_n(3) and Number(y).divisible_by_n(4):
+        ans.append(y)
 print(ans)
 # -------------------------------------------------------------------------------------- #
 
@@ -128,9 +127,3 @@ class GoodBoss(Boss):
     def encourage(self):
         print(f"The team cheers for {self.name}, starts shouting awesome slogans then gets back to work.")
 # -------------------------------------------------------------------------------------- #
-
-
-
-
-
-
