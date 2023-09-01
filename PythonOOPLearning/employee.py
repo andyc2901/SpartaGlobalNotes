@@ -1,5 +1,6 @@
 import person
 
+
 class Employee(person.Person):
     def __init__(self, fname, lname, department):
         self._department = department
