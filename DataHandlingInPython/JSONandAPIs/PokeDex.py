@@ -1,5 +1,6 @@
 import json
 import requests
+import pandas as pd
 
 
 # Find attribute functions take the request and pulls the desired attribute
@@ -93,3 +94,5 @@ print(pokedex)
 with open('Pokedex151.json', 'w') as JsonOut:
     json.dump(pokedex, JsonOut)
 
+pokedex1 = pd.read_json('Pokedex151.json')
+pokedex1.to_csv("Pokedex151.csv", index=False)
