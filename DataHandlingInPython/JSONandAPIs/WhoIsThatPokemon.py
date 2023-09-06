@@ -36,7 +36,7 @@ while game:
 
     elif guess != name:
         print('Incorrect guess')
-        hint = input('Please enter 1 if you would like a hint, or 0 to guess again')
+        hint = input('Please enter 1 if you would like a hint, or 0 to guess again ')
 
         try:
             if int(hint) == 1:
