@@ -41,6 +41,8 @@ while game:
         try:
             if int(hint) == 1:
                 hint_counter += 1
+            elif int(hint) != 0 and int(hint) != 1:
+                print('Please only input a 1 or a 0')
         except ValueError:
             print('Please only input a 1 or 0')
 
