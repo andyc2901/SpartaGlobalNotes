@@ -1,3 +1,6 @@
+import math
+
+
 class Table:
     def __init__(self, number_of_customers):
         self.number_of_customers = number_of_customers
@@ -51,4 +54,5 @@ class Table:
     def split_bill(self):
         sub_total = self.get_subtotal()
         split_cost = sub_total/self.number_of_customers
-        return split_cost
+        rounded_split_cost = math.ceil(100*split_cost)/100
+        return rounded_split_cost

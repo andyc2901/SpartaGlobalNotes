@@ -10,7 +10,7 @@ table01.order("Burrito", 20.43, 3)  # add 3 burrito and print
 print(table01.bill)
 table01.remove("Burrito", 20.43, 7)  # remove '7' burrito and print
 print(table01.bill)
-table01.remove("Burrito", 20.43, 6)  # remove 6 burrito and print
+# table01.remove("Burrito", 20.43, 6)  # remove 6 burrito and print
 print(table01.bill)
 print(table01.get_subtotal())  # get the subtotal
 print(table01.get_total(0.15))  # get the full total with a service charge of 15%
