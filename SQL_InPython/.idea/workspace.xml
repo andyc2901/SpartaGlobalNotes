@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbefe1c8-9f82-422d-b3ca-7837bb97bee4" name="Changes" comment="Uploaded the SQL in Python notes and python files">
+      <change afterPath="$PROJECT_DIR$/../Boto3_AWS/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boto3_AWS/.idea/Boto3_AWS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boto3_AWS/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boto3_AWS/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boto3_AWS/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boto3_AWS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataHandlingInPython/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataHandlingInPython/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataHandlingInPython/.idea/DataHandlingInPython.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataHandlingInPython/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataHandlingInPython/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataHandlingInPython/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataHandlingInPython/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataHandlingInPython/PandasSeabornMatplotlib/MatPlotLibandSeaborn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataHandlingInPython/PandasSeabornMatplotlib/pandas_dataframes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataHandlingInPython/PandasSeabornMatplotlib/titanic_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyMongo/.idea/PyMongo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyMongo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyMongo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyMongo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyMongo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyMongo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyMongo/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonExercises/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonExercises/.idea/PythonExercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonExercises/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonExercises/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonExercises/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonExercises/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonOOPLearning/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonOOPLearning/.idea/PythonOOPLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonOOPLearning/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonOOPLearning/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonOOPLearning/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonOOPLearning/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAPIsFundamentals/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAPIsFundamentals/.idea/RestAPIsFundamentals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAPIsFundamentals/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAPIsFundamentals/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAPIsFundamentals/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAPIsFundamentals/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAPIsFundamentals/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantProject/.idea/RestaurantProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SQL_InPython.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestaurantProject/restaurant.py" beforeDir="false" afterPath="$PROJECT_DIR$/../RestaurantProject/restaurant.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2VkiH0Tzt8tLivTsZZNc9JIvJhf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbefe1c8-9f82-422d-b3ca-7837bb97bee4" name="Changes" comment="" />
+      <created>1695386386530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695386386530</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Uploaded the SQL in Python notes and python files">
+      <option name="closed" value="true" />
+      <created>1695733839877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695733839877</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Uploaded the SQL in Python notes and python files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploaded the SQL in Python notes and python files" />
+  </component>
+</project>

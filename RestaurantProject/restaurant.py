@@ -7,7 +7,6 @@ class Table:
         self.bill = []
 
     def order(self, food: str, cost: float, quantity=1):
-
         if len(self.bill) == 0:
             self.bill.append({'item': food, 'price': cost, 'quantity': quantity})
         else:
@@ -40,7 +39,7 @@ class Table:
             subtotal += self.bill[x]['price'] * self.bill[x]['quantity']
         return round(subtotal, 2)
 
-    def get_total(self,service_charge=0.1):
+    def get_total(self, service_charge=0.1):
         subtotal = self.get_subtotal()
         sub_string = "{:,.2f}".format(subtotal)
         sub_string = '£' + sub_string

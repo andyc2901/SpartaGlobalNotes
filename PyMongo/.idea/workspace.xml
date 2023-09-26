@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f14cac1-4d48-4f0f-8687-240f18adfafd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DataHandlingInPython/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataHandlingInPython/.idea/DataHandlingInPython.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataHandlingInPython/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataHandlingInPython/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataHandlingInPython/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataHandlingInPython/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PyMongo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonExercises/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonExercises/.idea/PythonExercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonExercises/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonExercises/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonExercises/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonExercises/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonOOPLearning/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonOOPLearning/.idea/PythonOOPLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonOOPLearning/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonOOPLearning/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonOOPLearning/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonOOPLearning/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestaurantProject/restaurant.py" beforeDir="false" afterPath="$PROJECT_DIR$/../RestaurantProject/restaurant.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2VNhg9MmamL9wmfiIqOCNzo37Yq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/andyc/Sparta-Starship-Project/APITesting.py&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PyMongo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f14cac1-4d48-4f0f-8687-240f18adfafd" name="Changes" comment="" />
+      <created>1694682553618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694682553618</updated>
+    </task>
+    <servers />
+  </component>
+</project>
